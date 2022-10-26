@@ -13,3 +13,7 @@ table {
     border-spacing: 0;
 } 
 /* Mayer Reset */
+
+   table tr:nth-child(odd) {
+    background: #eee;
+    }
