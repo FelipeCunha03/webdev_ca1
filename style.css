@@ -59,7 +59,7 @@ table tr:nth-child(odd) {
         margin-right: auto;
         border-style:groove;
         padding: 0;
-        background-color: f0f0f0;
+        background-color:#7ae184;
         border-collapse:inherit;
         border-spacing: 5px;
         border-style: solid;
@@ -96,7 +96,7 @@ table tr:nth-child(odd) {
 
     
     tr:nth-child(odd) {
-        background-color: dddddd;
+        background-color:#eee;
     }
 
      table tr:hover {
@@ -119,7 +119,7 @@ table tr:nth-child(odd) {
         padding-left: 10px;
         padding-right: 10px;
         margin: 0px;
-        background-color: f0f0f0;
+        background-color:#7ae184;
         width: 96px;
     }
     
