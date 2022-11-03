@@ -38,6 +38,8 @@ tbody
 {
    overflow: auto;
    height: 0px;
+  
+
 }
 table tr:nth-child(odd) {
     background: #eee;
@@ -130,6 +132,11 @@ table tr:nth-child(odd) {
         padding-right: 10px;
         width: 96px;
     }
+
+    body{
+        background-image: url("t.i.jpeg");
+
+     }
      #Departament {
         background-color:lightsalmon;
      }
@@ -147,7 +154,7 @@ table tr:nth-child(odd) {
      #Job_Title{
         background-color:lightgray;
      }
-   
+      
    
   
       
